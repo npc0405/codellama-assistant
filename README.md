@@ -37,7 +37,7 @@ Or download the app directly from [ollama.com](https://ollama.com) (runs as a me
 If installed via Homebrew, start the server manually:
 
 ```bash
-ollama serve &
+ollama serve
 ```
 
 ---
